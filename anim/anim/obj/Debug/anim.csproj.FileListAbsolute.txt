@@ -1,0 +1,16 @@
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.csproj.AssemblyReference.cache
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даша\Documents\anim\anim\obj\Debug\MainWindow.g.cs
+C:\Users\Даша\Documents\anim\anim\obj\Debug\App.g.cs
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim_MarkupCompile.cache
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim_MarkupCompile.lref
+C:\Users\Даша\Documents\anim\anim\bin\Debug\anim.exe.config
+C:\Users\Даша\Documents\anim\anim\bin\Debug\anim.exe
+C:\Users\Даша\Documents\anim\anim\bin\Debug\anim.pdb
+C:\Users\Даша\Documents\anim\anim\obj\Debug\MainWindow.baml
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.g.resources
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.Properties.Resources.resources
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.csproj.GenerateResource.cache
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.exe
+C:\Users\Даша\Documents\anim\anim\obj\Debug\anim.pdb
